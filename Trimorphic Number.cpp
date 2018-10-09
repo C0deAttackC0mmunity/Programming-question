@@ -1,3 +1,4 @@
+/* submitted by Manish Prasad*/
 #include <iostream> 
 using namespace std; 
   bool Fun(long long int n) 
