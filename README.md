@@ -1,2 +1,2 @@
 # Programming-question
-This respository is made to posted solution of different problems that are given to students to solve it.
+This respository is made to post solution of different problems which are given to students to solve.
